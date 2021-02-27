@@ -20,6 +20,13 @@ body {
   height: 100px;
   margin: 10px;
   border-radius: 10px;
+  font-size: 60px;
+  vertical-align: middle;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  text-overflow: ellipsis;
+  overflow-x: auto;
 }
 
 .btn {
